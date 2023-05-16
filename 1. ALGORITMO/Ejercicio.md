@@ -14,11 +14,19 @@
 ###  Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
 1.INICIA 
+
 2.DECLARA (PRECIO ANTERIOR, PRECIO ACTUAL, DIFERENCIA DE PRECIO (PRECIO ACTUAL-PRECIO ANTERIOR), PORCENTAJE DE INCREMENTO (DIFERENCIA DE PRECIO POR 100, DIVIDIR RESULTADO ENTRE PRECIO ANTERIOR)
+
 3.PRECIO ANTERIOR =  100
+
 4.PRECIO ACTUAL = 120
+
 5.DIFERENCIA DE PRECIO 120-100= 20
-6.20 X 100 = 2000
+
+6. 20 X 100 = 2000
+
 7. 2000 / 100 = 20
+ 
 8. MOSTRAR PORCENTAJE
+
 9. TERMINA
